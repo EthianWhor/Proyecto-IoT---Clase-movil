@@ -1,0 +1,13 @@
+{
+  "name": "mock-esp32",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simulador de la ESP32-S3 CAM para probar la app sin la placa",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "jpeg-js": "^0.4.4"
+  }
+}

@@ -1,0 +1,3 @@
+# Secretos del firmware
+firmware/**/config.h
+firmware/**/build/
